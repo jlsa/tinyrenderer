@@ -36,3 +36,7 @@
 *.exe
 *.out
 *.app
+
+/output.tga
+
+.DS_Store
